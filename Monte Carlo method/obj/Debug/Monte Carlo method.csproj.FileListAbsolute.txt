@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.exe.config
+C:\Users\User\source\repos\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.exe
+C:\Users\User\source\repos\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.pdb
+C:\Users\User\source\repos\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.exe
+C:\Users\User\source\repos\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.pdb
+C:\Users\User\source\repos\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.csprojAssemblyReference.cache
+E:\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.exe.config
+E:\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.exe
+E:\Monte Carlo method\Monte Carlo method\bin\Debug\Monte Carlo method.pdb
+E:\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.csprojAssemblyReference.cache
+E:\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.csproj.CoreCompileInputs.cache
+E:\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.exe
+E:\Monte Carlo method\Monte Carlo method\obj\Debug\Monte Carlo method.pdb
